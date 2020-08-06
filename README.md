@@ -2,7 +2,7 @@
 
 
 
-![42-vscode-touchbar](https://raw.githubusercontent.com/untel/42-vscode-touchbar/master/assets/bar.png)
+![42-vscode-touchbar](https://raw.githubusercontent.com/untel/42-vscode-touchbar/master/bar.png)
 
 
 
