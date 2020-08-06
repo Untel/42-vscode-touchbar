@@ -1,7 +1,8 @@
 {
 	"name": "ext",
 	"displayName": "42_vscode_touchbar",
-	"description": "",
+	"publisher": "Untel",
+	"description": "Set 42 extensions in the macbook touchbar",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.47.0"
@@ -16,6 +17,10 @@
 		"onCommand:42-vscode-touchbar.comment",
 		"onCommand:42-vscode-touchbar.header"
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/untel/42-vscode-touchbar.git"
+	},
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
