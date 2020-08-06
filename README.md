@@ -6,6 +6,6 @@
 
 
 
-Set some 42 school extensions in the macbook touch bar
+VSCode extension, setting some 42 school extensions in the macbook touch bar
 
-Require [42comment](https://marketplace.visualstudio.com/items?itemName=nasanov.42-comment) and [42header](https://marketplace.visualstudio.com/items?itemName=kube.42header) extensions on vscode
+Require [42comment](https://marketplace.visualstudio.com/items?itemName=nasanov.42-comment) and [42header](https://marketplace.visualstudio.com/items?itemName=kube.42header).
