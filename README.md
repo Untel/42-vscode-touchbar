@@ -1,6 +1,8 @@
 # 42-vscode-touchbar
 
 
+Download it from the [vscode marketplace](https://marketplace.visualstudio.com/items?itemName=Untel.ext)
+
 
 ![42-vscode-touchbar](https://raw.githubusercontent.com/untel/42-vscode-touchbar/master/bar.png)
 
